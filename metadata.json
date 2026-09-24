@@ -1,0 +1,6 @@
+{
+  "name": "TiketFest - Platform Tiket Event Online",
+  "description": "Sistem pembelian tiket event online dengan pembayaran otomatis, cetak tiket QR code aman, akses kontrol gerbang acara, notifikasi email & push real-time, mode offline, dan analitik penjualan & kehadiran dengan ekspor PDF & Excel.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
